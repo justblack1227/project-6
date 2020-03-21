@@ -13,3 +13,5 @@ Extra Credit
 - changed the background color of side bar and top bar (mobile) to red
 - changed text color of sidebar to red
 - changed main menu h1 font to helvetica
+
+Going for Exceed Expectations but will accept Meet Expectations 
