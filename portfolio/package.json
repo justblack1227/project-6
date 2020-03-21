@@ -1,0 +1,16 @@
+{
+  "name": "portfolio",
+  "version": "0.0.1",
+  "description": "A portfolio site using express and static node js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "Justin Black",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pug": "^2.0.4"
+  }
+}

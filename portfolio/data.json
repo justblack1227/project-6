@@ -1,0 +1,42 @@
+{ "projects" : [
+    { "id" : 0, 
+    "project_name" : "Random Quote Generator",
+    "description" : "The site displays a random quote every 10 seconds or at user request.",
+    "technologies" : ["HTML", "CSS", "Javascript"],
+    "live_link" : "https://justblack1227.github.io/project-1/project/",
+    "github_link" : "https://github.com/justblack1227/project-1",
+    "image_urls"  : ["proj_1_main.jpg", "proj_1_1.jpg", "proj_1_2.jpg", "proj_1_3.jpg"]
+  }, 
+  { "id" : 1, 
+    "project_name" : "Student List Directory",
+    "description" : "Using list pagination and filtering, this site takes a 54 student list and displays 10 students per page",
+    "technologies" : ["HTML", "CSS", "Javascript"],
+    "live_link" : "https://justblack1227.github.io/project-2/",
+    "github_link" : "https://github.com/justblack1227/project-2",
+    "image_urls"  : ["proj_2_main.jpg", "proj_2_1.jpg", "proj_2_2.jpg", "proj_2_3.jpg"]
+  }, 
+  { "id" : 2, 
+    "project_name" : "Interactive Form",
+    "description" : "A static form for a conference was transformed into an interactive one on this site",
+    "technologies" : ["HTML", "CSS", "Javascript"],
+    "live_link" : "https://justblack1227.github.io/project-3/",
+    "github_link" : "https://justblack1227.github.io/project-3/index.html",
+    "image_urls"  : ["proj_3_main.jpg", "proj_3_1.jpg", "proj_3_2.jpg", "proj_3_3.jpg"]
+  }, 
+  { "id" : 3, 
+    "project_name" : "Phase Hunter",
+    "description" : "A fun, interactive guessing game was created on this site. Can you guess the phrase?",
+    "technologies" : ["HTML", "CSS", "Javascript"],
+    "live_link" : "https://justblack1227.github.io/Project-4/index.html",
+    "github_link" : "https://github.com/justblack1227/project-4",
+    "image_urls"  : ["proj_4_main.jpg", "proj_4_1.jpg", "proj_4_2.jpg", "proj_4_3.jpg"]
+  }, 
+  { "id" : 4, 
+    "project_name" : "Employee Directory",
+    "description" : "This site uses an API request to display random employee info.",
+    "technologies" : ["HTML", "CSS", "Javascript"],
+    "live_link" : "https://justblack1227.github.io/project-5/index.html",
+    "github_link" : "https://github.com/justblack1227/project-5",
+    "image_urls"  : ["proj_5_main.jpg", "proj_5_1.jpg", "proj_5_2.jpg", "proj_5_3.jpg"]
+  }
+]}
