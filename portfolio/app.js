@@ -1,7 +1,7 @@
-//Techdegree Project 6
+
 //by Justin Black 
 //
-//Going for Exceed Expectations but will accept Meet Expectations 
+
 
 const express = require('express');
 const data = require('./data');
